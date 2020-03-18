@@ -1,0 +1,5 @@
+export enum APIKey {
+    // there are your flinkster API keys
+    DB_SANDBOX = '',
+    DB_PRODUCTION = ''
+}
